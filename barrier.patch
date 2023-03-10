@@ -1,0 +1,11 @@
+--- /home/thiago/Desenvolvimento/barrier/barrier-2.4.0/src/./lib/base/Event.h	2023-03-10 20:04:08.771164248 +0000
++++ /home/thiago/Desenvolvimento/barrier/barrier/src/./lib/base/Event.h	2023-03-10 16:44:24.207281671 +0000
+@@ -21,6 +21,8 @@
+ #include "common/basic_types.h"
+ #include "common/stdmap.h"
+ 
++#include <cstddef>
++
+ class EventData {
+ public:
+     EventData() { }
