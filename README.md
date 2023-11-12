@@ -9,4 +9,4 @@ The new release code it is not completed and need to download some libs
  - https://github.com/google/googletest
  - https://github.com/gulrak/filesystem
 
-Teste on Slackware 15.0 (current)
+Tested on Slackware 15.0 (current)
